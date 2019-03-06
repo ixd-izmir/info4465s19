@@ -1,6 +1,4 @@
 # info4465s19
-
-# dm2104s19
 Syllabus for Yasar University Information Design, Spring 2019
 
 ## Schedule
